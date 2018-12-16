@@ -1,6 +1,6 @@
 # nuxt-sandbox
+[https://zen-minsky-15170d.netlify.com/](https://zen-minsky-15170d.netlify.com/)
 
-> My well-made Nuxt.js project
 
 ## Build Setup
 
@@ -14,9 +14,6 @@ $ yarn run dev
 # build for production and launch server
 $ yarn run build
 $ yarn start
-
-# generate static project
-$ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).

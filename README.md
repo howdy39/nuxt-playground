@@ -1,5 +1,5 @@
 # nuxt-sandbox
-[https://zen-minsky-15170d.netlify.com/](https://zen-minsky-15170d.netlify.com/)
+[https://nuxt-sandbox.netlify.com/](https://nuxt-sandbox.netlify.com/)
 
 
 ## Build Setup
@@ -17,3 +17,9 @@ $ yarn start
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+
+## Environments
+
+### Netlify
+https://app.netlify.com/sites/nuxt-sandbox/overview

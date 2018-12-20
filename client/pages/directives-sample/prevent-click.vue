@@ -1,5 +1,6 @@
 <template>
   <section>
+    <h2>直接指定した場合の確認</h2>
     <ul class="links">
       <li>
         <a

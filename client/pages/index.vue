@@ -6,6 +6,15 @@
         <nuxt-link to="/directives-sample/prevent-click">prevent-click</nuxt-link>
       </li>
     </ul>
+    <h2>middleware</h2>
+    <ul>
+      <li>
+        <nuxt-link to="/middleware-sample/direct-access">direct-access</nuxt-link>
+      </li>
+      <li>
+        <nuxt-link to="/middleware-sample/disable-direct-access">disable-direct-access</nuxt-link>
+      </li>
+    </ul>
   </section>
 </template>
 

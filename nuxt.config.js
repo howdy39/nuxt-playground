@@ -36,7 +36,7 @@ module.exports = {
   /*
   ** Nuxt.js modules
   */
-  modules: [],
+  modules: ['nuxt-user-agent'],
 
   /*
   ** Build configuration

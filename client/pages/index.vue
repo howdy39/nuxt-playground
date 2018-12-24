@@ -15,6 +15,12 @@
         <nuxt-link to="/middleware-sample/disable-direct-access">disable-direct-access</nuxt-link>
       </li>
     </ul>
+    <h2>plugins</h2>
+    <ul>
+      <li>
+        <nuxt-link to="/plugins-sample/nuxt-user-agent">nuxt-user-agent</nuxt-link>
+      </li>
+    </ul>
   </section>
 </template>
 

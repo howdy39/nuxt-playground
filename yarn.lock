@@ -4104,6 +4104,12 @@ number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
 
+nuxt-user-agent@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/nuxt-user-agent/-/nuxt-user-agent-1.0.2.tgz#68adcdde097784df065d3d81db9b21cf18051c4f"
+  dependencies:
+    woothee "^1.7.0"
+
 nuxt@^2.0.0:
   version "2.3.4"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-2.3.4.tgz#61f5fe856ebbeced89f04a3734baa4ee91cc3cfa"
@@ -6361,6 +6367,10 @@ widest-line@^2.0.0:
   resolved "https://registry.yarnpkg.com/widest-line/-/widest-line-2.0.1.tgz#7438764730ec7ef4381ce4df82fb98a53142a3fc"
   dependencies:
     string-width "^2.1.1"
+
+woothee@^1.7.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/woothee/-/woothee-1.8.0.tgz#e45b6d3e3c36b40cf7e4ea32173acdd8a22c0b45"
 
 wordwrap@~1.0.0:
   version "1.0.0"

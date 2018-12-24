@@ -18,6 +18,9 @@
     <h2>plugins</h2>
     <ul>
       <li>
+        <nuxt-link to="/plugins-sample/nuxt-device-detect">nuxt-device-detect</nuxt-link>
+      </li>
+      <li>
         <nuxt-link to="/plugins-sample/nuxt-user-agent">nuxt-user-agent</nuxt-link>
       </li>
     </ul>

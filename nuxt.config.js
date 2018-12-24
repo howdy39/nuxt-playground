@@ -36,7 +36,7 @@ module.exports = {
   /*
   ** Nuxt.js modules
   */
-  modules: ['nuxt-user-agent'],
+  modules: ['nuxt-user-agent', 'nuxt-device-detect'],
 
   /*
   ** Build configuration

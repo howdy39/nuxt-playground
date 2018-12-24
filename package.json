@@ -15,6 +15,7 @@
   "dependencies": {
     "cross-env": "^5.2.0",
     "nuxt": "^2.0.0",
+    "nuxt-device-detect": "^1.1.2",
     "nuxt-user-agent": "^1.0.2"
   },
   "devDependencies": {

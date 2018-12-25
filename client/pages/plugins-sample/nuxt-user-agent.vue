@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1><a href="https://github.com/fukuiretu/nuxt-user-agent/">nuxt-user-agent</a></h1>
     <table>
       <tr><td>$ua.deviceType()</td><td>{{ $ua.deviceType() }}</td></tr>
       <tr><td>$ua.os()</td><td>{{ $ua.os() }}</td></tr>

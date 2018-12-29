@@ -36,7 +36,11 @@ module.exports = {
   /*
   ** Nuxt.js modules
   */
-  modules: ['nuxt-user-agent', 'nuxt-device-detect'],
+  modules: [
+    'nuxt-user-agent',
+    'nuxt-device-detect',
+    [('@nuxtjs/google-tag-manager', { id: 'GTM-N4J774J' })]
+  ],
 
   /*
   ** Build configuration

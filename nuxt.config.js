@@ -39,7 +39,7 @@ module.exports = {
   modules: [
     'nuxt-user-agent',
     'nuxt-device-detect',
-    [('@nuxtjs/google-tag-manager', { id: 'GTM-N4J774J' })]
+    ['@nuxtjs/google-tag-manager', { id: 'GTM-N4J774J' }]
   ],
 
   /*

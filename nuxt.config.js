@@ -31,7 +31,7 @@ module.exports = {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: ['~/plugins/directives'],
+  plugins: ['~/plugins/directives', '~/plugins/vue-youtube'],
 
   /*
   ** Nuxt.js modules

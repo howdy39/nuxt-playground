@@ -23,6 +23,9 @@
       <li>
         <nuxt-link to="/plugins-sample/nuxt-user-agent">nuxt-user-agent</nuxt-link>
       </li>
+      <li>
+        <nuxt-link to="/plugins-sample/vue-youtube">vue-youtube</nuxt-link>
+      </li>
     </ul>
   </section>
 </template>

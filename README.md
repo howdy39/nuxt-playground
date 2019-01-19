@@ -1,5 +1,5 @@
-# nuxt-sandbox
-[https://nuxt-sandbox.netlify.com/](https://nuxt-sandbox.netlify.com/)
+# nuxt-playground
+[https://nuxt-playground.netlify.com/](https://nuxt-playground.netlify.com/)
 
 
 ## Build Setup
@@ -22,4 +22,4 @@ For detailed explanation on how things work, checkout [Nuxt.js docs](https://nux
 ## Environments
 
 ### Netlify
-https://app.netlify.com/sites/nuxt-sandbox/overview
+https://app.netlify.com/sites/nuxt-playground/overview

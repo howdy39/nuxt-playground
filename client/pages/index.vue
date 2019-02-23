@@ -1,5 +1,11 @@
 <template>
   <section class="container">
+    <h2>components</h2>
+    <ul>
+      <li>
+        <nuxt-link to="/components-sample/custom-tabs">custom-tabs</nuxt-link>
+      </li>
+    </ul>
     <h2>directives</h2>
     <ul>
       <li>

@@ -15,10 +15,7 @@
 </template>
 
 <script>
-import MyTab from '~/components/custom-tabs/my-tab'
-
 export default {
-  components: { MyTab },
   props: {
     value: {
       type: String,
